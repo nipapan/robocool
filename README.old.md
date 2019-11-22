@@ -1,2 +1,0 @@
-# robocool
-React app exercise
