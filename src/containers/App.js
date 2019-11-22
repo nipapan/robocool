@@ -33,7 +33,7 @@ class App extends React.Component {
          <p>Loading...</p> :
          (
             <div className='tc'>
-               <h1 className='logo'>RoboFriends</h1>
+               <h1 className='logo'>RoboCool</h1>
                <SearchBox onSearchChange={this.onSearchChange} />
                <Scroll>
                   <ErrorBoundary>
