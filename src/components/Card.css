@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.card-bg {
+    background: #edf5e1;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #05386b;
+}
