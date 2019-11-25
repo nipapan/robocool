@@ -1,14 +1,8 @@
 import {
-   CHANGE_SEARCH_TEXT,
    REQUEST_ROBOTS_PENDING,
    REQUEST_ROBOTS_SUCCESS,
    REQUEST_ROBOTS_FAILED
 } from './constants';
-
-export const setSearchText = (text) => ({
-   type: CHANGE_SEARCH_TEXT,
-   payload: text
-})
 
 export const requestRobotsApi = () => (dispatch) => {
    dispatch({type: REQUEST_ROBOTS_PENDING});

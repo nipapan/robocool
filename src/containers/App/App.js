@@ -1,12 +1,13 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import CardList from "../components/CardList";
-import SearchBox from '../components/SearchBox';
-import Scroll from "../components/Scroll";
-import ErrorBoundary from "../components/ErrorBoundary";
+import CardList from "../../components/CardList/CardList";
+import SearchBox from '../../components/SearchBox/SearchBox';
+import Scroll from "../../components/Scroll/Scroll";
+import ErrorBoundary from "../../components/ErrorBoundary/ErrorBoundary";
 import './App.css';
 
-import { setSearchText, requestRobotsApi } from '../actions';
+import {setSearchText} from '../../components/SearchBox/actions';
+import {requestRobotsApi} from './actions';
 
 const mapStateToProps = state => {
    return {

@@ -7,8 +7,9 @@ import thunkMiddleware from 'redux-thunk';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
-import App from './containers/App';
-import {requestRobots, searchRobots} from './reducers';
+import App from './containers/App/App';
+import {searchRobots} from './components/SearchBox/reducers';
+import {requestRobots} from './containers/App/reducers';
 
 const logger = createLogger();
 const rootReducer = combineReducers({searchRobots, requestRobots})
