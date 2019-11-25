@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/robocool/static/css/main.13a77a4e.chunk.css",
-    "main.js": "/robocool/static/js/main.dee9e4dc.chunk.js",
-    "main.js.map": "/robocool/static/js/main.dee9e4dc.chunk.js.map",
+    "main.css": "/robocool/static/css/main.5d753751.chunk.css",
+    "main.js": "/robocool/static/js/main.523c05f1.chunk.js",
+    "main.js.map": "/robocool/static/js/main.523c05f1.chunk.js.map",
     "runtime-main.js": "/robocool/static/js/runtime-main.14468c02.js",
     "runtime-main.js.map": "/robocool/static/js/runtime-main.14468c02.js.map",
     "static/css/2.eb45ad44.chunk.css": "/robocool/static/css/2.eb45ad44.chunk.css",
     "static/js/2.6aa0823c.chunk.js": "/robocool/static/js/2.6aa0823c.chunk.js",
     "static/js/2.6aa0823c.chunk.js.map": "/robocool/static/js/2.6aa0823c.chunk.js.map",
     "index.html": "/robocool/index.html",
-    "precache-manifest.224d9efa2178de7834740d62b77dc658.js": "/robocool/precache-manifest.224d9efa2178de7834740d62b77dc658.js",
+    "precache-manifest.b2529bbee20c675ff4a81aa0724208de.js": "/robocool/precache-manifest.b2529bbee20c675ff4a81aa0724208de.js",
     "service-worker.js": "/robocool/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/robocool/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.13a77a4e.chunk.css.map": "/robocool/static/css/main.13a77a4e.chunk.css.map"
+    "static/css/main.5d753751.chunk.css.map": "/robocool/static/css/main.5d753751.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.14468c02.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.6aa0823c.chunk.js",
-    "static/css/main.13a77a4e.chunk.css",
-    "static/js/main.dee9e4dc.chunk.js"
+    "static/css/main.5d753751.chunk.css",
+    "static/js/main.523c05f1.chunk.js"
   ]
 }
