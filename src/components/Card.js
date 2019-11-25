@@ -6,7 +6,7 @@ const Card = ({robot}) => {
        <div key={robot.id} className='tc dib br3 pa3 ma2 grow bw2 shadow-5 card-bg'>
           <img alt='robots' src={`https://robohash.org/${robot.name}?100x100`} />
           <div>
-             <h2 className='card-text'>{robot.name}</h2>
+             <h3 className='card-text'>{robot.name}</h3>
              <p>{robot.email}</p>
           </div>
        </div>
