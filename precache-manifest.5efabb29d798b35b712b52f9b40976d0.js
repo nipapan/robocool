@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b1ad1429790376a6edaf2bcf178c89c",
+    "revision": "2f5dbd44a2eef4c02c20c62c3f3b1fcb",
     "url": "/robocool/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robocool/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "7da376479ce1268afb18",
+    "revision": "d82d34834563933a5f19",
     "url": "/robocool/static/css/main.8260724f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robocool/static/js/2.05c7fc16.chunk.js"
   },
   {
-    "revision": "7da376479ce1268afb18",
-    "url": "/robocool/static/js/main.5a7824f4.chunk.js"
+    "revision": "d82d34834563933a5f19",
+    "url": "/robocool/static/js/main.a7064ef0.chunk.js"
   },
   {
     "revision": "2c37ed9e5d44bcb17794",
