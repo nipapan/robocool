@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5589a206009292e943d7305fd95c02d",
+    "revision": "606cbd79dde6919ba1eb6af4161c2fb4",
     "url": "/robocool/index.html"
   },
   {
