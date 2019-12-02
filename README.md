@@ -1,4 +1,6 @@
-RoboCool is a Progressive Web App that is developed using React & Redux. 
+RoboCool is:
+* React/Redux app
+* Progressive Web App 
 
 ### Demo Page
 https://nipapan.github.io/robocool
